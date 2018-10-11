@@ -1,5 +1,7 @@
 # 程序员之家平台网站介绍
 
+[TOC]
+
 > 程序员之家平台网站是一个面向有志成为程序员或相关从业人员的大学生群体而开发的，同时它也是一个大学社团即程序员之家社团的唯一官方平台，该平台的核心开发及维护成员也均为该社团成员，当然我们也欢迎非社团成员前来协助。
 
 ## 概况
@@ -100,12 +102,21 @@ UI框架：Element UI、Vuetify
 ## 设计文档
 
 1. [API设计文档](https://www.eolinker.com/#/share/index?shareCode=d9dbhT)（有些地方可能会因为更新不及时与项目有冲突）
+
 2. [UI设计（前台）](https://free.modao.cc/app/66d954fac42a1e3c0e4ae7d616b9609531e382cc#screen=s25615085e0dc00ad25bcc2)（仅供参考，以项目实例为主）
+
 3. [UI设计（后台）](https://free.modao.cc/app/jQOWsoXVG4VUZ2gWAKvvI31dZ77QOh3)(项目后台还未开始做，可能做的时候，该UI界面变动会较大))
-4. [数据库设计](./cxyzj.sql)(包含了一些测试数据)
-5. [测试说明文档](./测试说明/测试说明文档.md)
-6. [代码规范文档](./代码规范.md)
-7. [用户安全验证系统说明](./用户安全验证系统说明.md)
+
+4. [数据库](https://github.com/CXYZJ408/CXYZJ/blob/master/cxyzj.sql)(包含了一些测试数据)
+
+5. [测试说明文档](https://github.com/CXYZJ408/CXYZJ/blob/master/%E6%B5%8B%E8%AF%95%E8%AF%B4%E6%98%8E/%E6%B5%8B%E8%AF%95%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.md)
+
+6. [代码规范文档](https://github.com/CXYZJ408/CXYZJ/blob/master/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)
+
+7. [用户安全验证系统说明](https://github.com/CXYZJ408/CXYZJ/blob/master/%E7%94%A8%E6%88%B7%E5%AE%89%E5%85%A8%E9%AA%8C%E8%AF%81%E7%B3%BB%E7%BB%9F.md)
+
+8. [接口编写说明文档](https://github.com/CXYZJ408/CXYZJ/blob/master/%E6%8E%A5%E5%8F%A3%E7%BC%96%E5%86%99%E8%AF%B4%E6%98%8E.md)
+
 
 ## 项目地址
 
